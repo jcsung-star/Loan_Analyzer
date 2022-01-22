@@ -15,7 +15,7 @@ Columbia FinTech Bootcamp Assignment - Module 1
 * [Overview](#overview)
 * [Requirements](#requirements)
 * [Instructions](#instructions)
-* [Images](#images)
+* [Image](#image)
 * [License](#license)
 
 ---
