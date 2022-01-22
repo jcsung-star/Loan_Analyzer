@@ -15,7 +15,7 @@ Columbia FinTech Bootcamp Assignment - Module 1
 * [Overview](#overview)
 * [Requirements](#requirements)
 * [Instructions](#instructions)
-* [Images and Demos](#images-and-demos)
+* [Images](#images)
 * [License](#license)
 
 ---
@@ -30,7 +30,7 @@ The loan analyzes loans identfies inexpensive loans to potentially invest in.
 
 This project leverages **[python version 3.7](https://www.python.org/downloads/)**
 
--
+---
 
 ## Instructions
 
@@ -43,8 +43,6 @@ Go to the Anaconda Prompt to launch JupyterLab by typing Jupyter Lab. To use thi
 
 ### CSV File Created Identifying Inexpensive Loans
 ![Inexpensive csv list created ](images/csv_file_created.PNG) 
-
-
 
 --- 
 
